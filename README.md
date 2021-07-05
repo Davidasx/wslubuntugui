@@ -1,5 +1,5 @@
 # wslubuntugui
-Simple launcher for Ubuntu GUI.
+Simple launcher for WSL Ubuntu GUI.
 # Installation
 ```bash
 sudo apt install xfce4 xfce4-session -y
