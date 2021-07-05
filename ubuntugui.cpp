@@ -14,7 +14,7 @@ int main(){
 		cout<<"Use GUI..."<<endl;
 		system("config.xlaunch");
 		Sleep(2000);
-		system("ubuntu run starter.sh");
+		system("ubuntu run \"sh /usr/bin/starter.sh\"");
 	}
 	else{
 		cout<<"Use CLI..."<<endl;
